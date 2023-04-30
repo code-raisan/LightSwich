@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ライト</string>
+    <string name="light_on">点灯</string>
+    <string name="light_off">消灯</string>
+</resources>
